@@ -18,11 +18,11 @@ Here,in this repository , I am going to update and track my DSA journey
 
 | Week | Striver Videos | LeetCode Problems | Codeforces Rating |
 |-----|-----------------|-------------------|------------------|
-| 1-4 | Arrays, Strings, Recursion | 50 | Start at Current |
-| 5-8 | Linked Lists, Stacks, Queues | 150 | 800+ |
-| 9-12 | Trees, Graphs, Heaps | 300 | 1000+ |
-| 13-16 | DP, Backtracking, Greedy | 500 | 1100+ |
-| 17-20 | Trie, Bit Manipulation, Misc | 700 | 1200+ |
+| 1-4 | Arrays, Strings, Recursion |  | Start at Current |
+| 5-8 | Linked Lists, Stacks, Queues |  |  |
+| 9-12 | Trees, Graphs, Heaps |  |  |
+| 13-16 | DP, Backtracking, Greedy |  |  |
+| 17-20 | Trie, Bit Manipulation, Misc |  |  |
 
 ---
 
